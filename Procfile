@@ -1,1 +1,1 @@
-web: gunicorn main:where2grind
+web: gunicorn main:app
